@@ -1,5 +1,9 @@
 # troubleSolution
  Rodolfo's challenge
+
+In this repository I am solving two challenges in two languages ​​(Python and Java)
+
+Challenges:
  
 ```markdown
 # Challenge 1 - Student Registration System
